@@ -34,6 +34,7 @@ The formal submission document should be be structured as follows:
 Why are you doing this? What impact will the project have if it is completely successful?
 
 **Technical approach**
+
 How will it work? Convince us that your project has a good chance of meeting the goals of the motivation. What are the risks, unknowns and external dependencies, and how will you cope with them?
 
 **Team background and qualifications**
@@ -49,9 +50,11 @@ What would your project look like if successful, and how would we be able to tel
 What are the implications of this project to the privacy, integrity, availability and decentralization of Zcash? Does it create, or mitigate, potential attacks? Is user education needed to use it securely? This is especially relevant for technical projects.
 
 **Schedule**
+
 What is your timeline for the project? Please list several concrete milestones along this timeline.
 
 **Budget and justification**
+
 How much money do you need, and how will you spend it (e.g., compensation for your effort, specific equipment, specific external services)?
 
 We expect a typical project to require approximately 3 pages to adequately discuss the above.
