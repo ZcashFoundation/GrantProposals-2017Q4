@@ -1,5 +1,9 @@
 # Zcash Foundation Grants: Call for Proposals (Q4 2017)
 
+> *Em [Português](https://github.com/ZcashFoundation/GrantProposals-2017Q4/blob/master/README-pt.md)*
+
+> *En [Español](https://github.com/ZcashFoundation/GrantProposals-2017Q4/blob/master/README-es.md)*
+
 The Zcash Foundation is offering grants to fund projects proposed and carried out by Zcash community members.
 
 ## Scope
