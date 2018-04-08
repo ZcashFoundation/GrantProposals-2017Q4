@@ -24,14 +24,14 @@ The new Zcash Foundation Grants aim for a systematic, forward-looking mechanism 
 
 ## The Proposal Process
 
-1. The proposer files an *Issue* in this dedicated Github repository: https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues The Issue should explain the tentative proposal–informally but in detail. This must be done by **September 15th, 2017.** 
+1. The proposer files an *Issue* in this dedicated GitHub repository: https://github.com/ZcashFoundation/GrantProposals-2017Q4/issues The Issue should explain the tentative proposal–informally but in detail. This must be done by **September 15th, 2017.** 
 1. Public discussion will ensue in comments on the filed Issue. The discussion will hopefully include support, critique, suggestions for improvements, and pointers to relevant resources.
 1. Subsequently, and no later than **October 6th, 2017**: the proposer will post a formal stand-alone Submission document, as an attachment in the issue. The Submission should summarize the official proposal, following the structure outlined below. The proposer may revise the Submission, e.g., to address ongoing feedback, by filing new versions as attachments in the Issue, until the Submission Deadline of **October 6th, 2017.**
 1. After the Submission Deadline, the Zcash Foundation Grant Review Committee will convene to make its funding decision, based on the submissions, the community feedback gathered in the issues, and possibly other consultation.
 
 ## Structure of the Submission
 
-The formal submission document should be be structured as follows:
+The formal submission document should be structured as follows:
 
 **Motivation and overview**
 
